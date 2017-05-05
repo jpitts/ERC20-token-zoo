@@ -1,6 +1,8 @@
 # ERC20-token-zoo
 
-Descriptions of various ERC20-compatible Ethereum tokens, primarily focusing on examples for use in developing tokenized services. For tokens that are already deployed on the Ethereum network, see: [Etherscan Token List](https://etherscan.io/tokens).  
+Descriptions of various [ERC20](https://github.com/ethereum/EIPs/issues/20)-compatible Ethereum tokens, primarily focusing on examples for use in developing tokenized services. 
+
+For tokens that are already deployed on the Ethereum network, use the [Etherscan Token List](https://etherscan.io/tokens).  
 
 | Token | Author | Description | 
 | ----- | ------ | ----------- |
